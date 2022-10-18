@@ -1,0 +1,11 @@
+
+.btn{
+    
+    background: gainsboro;
+    
+}
+
+.btn:hover{
+    background: rgb(233, 220, 220);
+    box-shadow: 5px 5px 5px plum ;
+}

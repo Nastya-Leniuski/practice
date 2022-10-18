@@ -1,0 +1,18 @@
+{
+	"name": "countr",
+	"version": "1.0.0",
+	"description": "countr",
+	"source": "src/index.html",
+	"scripts": {
+		"start": "parcel serve --open"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@parcel/transformer-sass": "^2.7.0",
+		"parcel": "^2.7.0",
+		"rimraf": "^3.0.2",
+		"sass": "^1.54.9"
+	}
+}
